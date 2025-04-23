@@ -1,6 +1,6 @@
 # Rover Path Planning Project
 
-This project contains code for rover path planning using A* algorithm and terrain analysis. Due to GitHub's file size restrictions, some large input/output files have been excluded from the repository.
+This project contains code for rover path planning using Bidirectional A* algorithm and terrain analysis. Due to GitHub's file size restrictions, some large input/output files have been excluded from the repository.
 
 ## Excluded Files
 The following files are not included in the repository due to their large size:
